@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ar\\arranger\\plugins\\mstatemachine\\intermediate\\build\\win64\\unrealeditor\\inc\\mstatemachine\\uht\\mstatemachine.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ar\\arranger\\intermediate\\build\\win64\\x64\\arrangereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ar\\arranger\\plugins\\mstatemachine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mstatemachine\\definitions.mstatemachine.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

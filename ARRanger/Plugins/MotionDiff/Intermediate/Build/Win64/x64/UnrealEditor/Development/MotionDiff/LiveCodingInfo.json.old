@@ -1,0 +1,26 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MotionDiff.cpp.obj": [
+			"MDMeshCaptureMaterial.gen.cpp.obj",
+			"MDMeshSnapshot.gen.cpp.obj",
+			"MotionDiff.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"MDMeshCaptureHelperLibrary.cpp.obj",
+			"MDMeshGenerator.cpp.obj",
+			"MotionDiffLogChannels.cpp.obj",
+			"MDMeshCaptureComponent.cpp.obj",
+			"MDMeshCaptureFactory.cpp.obj",
+			"MDMeshCaptureMaterial.cpp.obj",
+			"MDMeshSnapshot.cpp.obj",
+			"MDMeshCaptureShutter.cpp.obj",
+			"MDMeshCapture.cpp.obj",
+			"MDMeshCaptureProxy.cpp.obj",
+			"MDSkeletalMeshCapture.cpp.obj",
+			"MDSkeletalMeshCaptureProxy.cpp.obj",
+			"MDStaticMeshCapture.cpp.obj",
+			"MDStaticMeshCaptureProxy.cpp.obj",
+			"MotionDiff.cpp.obj"
+		]
+	}
+}

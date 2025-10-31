@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ar\\arranger\\plugins\\motiondiff\\intermediate\\build\\win64\\unrealeditor\\inc\\motiondiff\\uht\\mdmeshsnapshot.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ar\\arranger\\intermediate\\build\\win64\\x64\\arrangereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ar\\arranger\\plugins\\motiondiff\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\motiondiff\\definitions.motiondiff.h",
+            "d:\\ar\\arranger\\plugins\\motiondiff\\source\\motiondiff\\public\\mdmeshsnapshot.h",
+            "d:\\ar\\arranger\\plugins\\motiondiff\\intermediate\\build\\win64\\unrealeditor\\inc\\motiondiff\\uht\\mdmeshsnapshot.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
