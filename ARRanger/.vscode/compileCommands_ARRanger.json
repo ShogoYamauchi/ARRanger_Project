@@ -1,0 +1,3906 @@
+[
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\MStateMachine.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\Private\\MBlueprintStateInstance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\Private\\MStateContext.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\Private\\MStateContextFunctions.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\Private\\MStateDefinition.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\Private\\MStateInstance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\Private\\MStateMachine.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\Private\\MStateMachineComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\Private\\MStateMachineLogChannels.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\Public\\MBlueprintStateInstance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\Public\\MStateContext.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\Public\\MStateContextFunctions.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\Public\\MStateDefinition.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\Public\\MStateInstance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\Public\\MStateMachine.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\Public\\MStateMachineComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MStateMachine\\Source\\MStateMachine\\Public\\MStateMachineLogChannels.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MStateMachine.69.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Internal\\MDMeshAssetCreator.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Internal\\MDMeshCaptureHelperLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Internal\\MDMeshCaptureHelperLibrary.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Internal\\MDMeshGenerator.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Internal\\MDMeshGenerator.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\MotionDiff.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\MotionDiffLogChannels.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\MotionDiffLogChannels.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Private\\MDMeshCaptureComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Private\\MDMeshCaptureFactory.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Private\\MDMeshCaptureMaterial.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Private\\MDMeshSnapshot.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Private\\MeshCaptureShutter\\MDMeshCaptureShutter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Private\\MeshCapture\\MDMeshCapture.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Private\\MeshCapture\\MDMeshCaptureProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Private\\MeshCapture\\MDSkeletalMeshCapture.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Private\\MeshCapture\\MDSkeletalMeshCaptureProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Private\\MeshCapture\\MDStaticMeshCapture.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Private\\MeshCapture\\MDStaticMeshCaptureProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Private\\MotionDiff.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Public\\MDMeshCaptureComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Public\\MDMeshCaptureFactory.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Public\\MDMeshCaptureFwd.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Public\\MDMeshCaptureMaterial.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Public\\MDMeshCaptureSupportedTypeTraits.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Public\\MDMeshSnapshot.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Public\\MeshCaptureShutter\\MDMeshCaptureShutter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Public\\MeshCapture\\MDMeshCapture.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Public\\MeshCapture\\MDMeshCaptureProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Public\\MeshCapture\\MDSkeletalMeshCapture.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Public\\MeshCapture\\MDSkeletalMeshCaptureProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Public\\MeshCapture\\MDStaticMeshCapture.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Public\\MeshCapture\\MDStaticMeshCaptureProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Public\\Misc\\MDConcepts.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Plugins\\MotionDiff\\Source\\MotionDiff\\Public\\MotionDiff.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MotionDiff.68.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\ARRangerEditor.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\ARRangerEditorModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\ARRepositoryAssetHelper.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\CustomComponentVisualizer\\ARRangeDetectorComponentVisualizer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\CustomDetails\\RangeDetectorCustomization.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\CustomDetails\\RangeDetectorTargetCustomization.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\MagneticParamEdit\\ARDetailsView.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\MagneticParamEdit\\ARMagneticParamEditHelper.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\MagneticParamEdit\\ARMagneticParamEditHelper.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\MagneticParamEdit\\ARMagneticParamEditPanel.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\MagneticParamEdit\\ARMagneticParamEntry.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\MagneticParamEdit\\ARMagneticParamsListEntryWidget.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\MagneticParamEdit\\ARMagneticParamsListView.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\MagneticParamEdit\\MagneticParamAssetPathSave.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\MagneticParamEdit\\MagneticParamAssetPathSave.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\MagneticParamEdit\\MagneticParamAssetSavePathFactory.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\MagneticParamEdit\\MagneticParamAssetSavePathFactory.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\MagneticParamEdit\\SMagneticParamEditPanelWidget.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\MagneticParamEdit\\SMagneticParamEditPanelWidget.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\Materials\\MyMaterialExpression.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Private\\Misc\\ClassFilters\\InterfaceClassFilter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Public\\ARRangerEditorModule.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Public\\ARRepositoryAssetHelper.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Public\\CustomComponentVisualizer\\ARRangeDetectorComponentVisualizer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Public\\CustomDetails\\RangeDetectorCustomization.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Public\\CustomDetails\\RangeDetectorTargetCustomization.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Public\\MagneticParamEdit\\ARDetailsView.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Public\\MagneticParamEdit\\ARMagneticParamEditPanel.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Public\\MagneticParamEdit\\ARMagneticParamEntry.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Public\\MagneticParamEdit\\ARMagneticParamsListEntryWidget.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Public\\MagneticParamEdit\\ARMagneticParamsListView.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Public\\Materials\\MyMaterialExpression.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRangerEditor\\Public\\Misc\\ClassFilters\\InterfaceClassFilter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRangerEditor.2.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\ARGameplayTags.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\ARGameplayTags.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\ARObject\\MagnetizableActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\ARObject\\MagnetizableActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\ARRanger.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\ARRanger.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\ARRanger.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\ARRangerCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\ARRangerCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\ARRangerGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\ARRangerGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\ARRangerPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\ARRangerPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\AttackData.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\AttackData.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\AttractionActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\AttractionActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Enemy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Enemy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\InsekiActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\InsekiActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\InsekiActor_NonArea.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\InsekiActor_NonArea.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\InsekiGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\InsekiGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Internal\\ARLogMacro.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Internal\\ARLoggingHeader.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Internal\\ARRangerLogChannels.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Internal\\ARRangerLogChannels.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Internal\\CountLimiter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Internal\\CountLimiterImpl.inl",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Internal\\Physics\\ARPhysicsModels.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Internal\\Physics\\ARPhysicsRepositories.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Internal\\Physics\\MagneticParametersRepository.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\ARRangerAnimInstance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\ARRangerGlobals.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\ARRangerGlobals.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\ActionAbilities\\ARAbilitySystemComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\ActionAbilities\\ARGameplayAbilityBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\ActionAbilities\\Abilities\\ARGameplayAbility_Attack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\ActionAbilities\\Abilities\\ARGameplayAbility_Charge.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\ActionAbilities\\Abilities\\ARGameplayAbility_Dead.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\ActionAbilities\\Abilities\\ARGameplayAbility_Jump.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\ActionAbilities\\Attributes\\ARAttackAttributeSet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\ActionAbilities\\Attributes\\ARAttributeSet.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\ActionAbilities\\Tasks\\ARAbilityTask_HitDetection.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\ActionAbilities\\Tasks\\AT_TickUntilInputRelease.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Animations\\AnimNotifies\\ARAnimNotify_AbilityCancelable.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Animations\\AnimNotifies\\AnimNotifyState_DetectRange.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Animations\\AnimNotifies\\AnimNotifyState_HitStop.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Animations\\AnimNotifies\\AnimNotifyState_ModifyAnimSpeed.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Animations\\AnimNotifies\\AnimNotify_AR_AddAttackCondition.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\AttackBaseComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\AudioSystem\\ARAudioSystem.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\AudioSystem\\ARSoundPlayLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\BattleEvent\\BarttleEventCage.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\BattleEvent\\BattleEventField.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\BattleEvent\\BattleEventManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\BattleEvent\\EnemySpawner.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\BattleSystem\\BattleSystemImpl.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\BlinkingSystem\\BlinkOutlineFunctor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\BlinkingSystem\\BlinkingOutlineWorldSubsystem.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\BlinkingSystem\\DetectorMagnetizableComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\BlinkingSystem\\OutlineSystem.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\BlinkingSystem\\OutlineTickActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\CameraWork\\Core\\CameraMainEvaluator.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\CameraWork\\Core\\CameraModeNode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\CameraWork\\Core\\CameraModeNodeEvaluator.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\CameraWork\\Core\\CameraModeRootNode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\CameraWork\\Core\\CameraModeView.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\CameraWork\\Core\\CameraRig.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\CameraWork\\Core\\CameraWorkDirector.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\CameraWork\\Core\\CameraWorkDirectorEvaluator.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\CameraWork\\Framework\\ARCameraComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\CameraWork\\Framework\\ARCameraComponentBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\CameraWork\\Framework\\ARCameraOperatorBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\CameraWork\\ICameraWorkProviderUEInterface.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Character\\ARAbilityCostComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Character\\ARHealthComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\CustomRenderPipeline\\CustomRPWorldSubsystem.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\CustomRenderPipeline\\MangaExaggerationStyleSVExtension.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Enemy\\BTT\\BTT_MoveToPreferredDistance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Enemy\\BTT\\BTT_PerformAttack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Enemy\\BTT\\BTT_SelectAttack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Enemy\\BTT\\BTT_SetMoveLocation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Enemy\\BTT\\BTT_Zako_PerformAttack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Enemy\\BTT_PunchAttack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Enemy\\BTT_SetAttackCooldown.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Enemy\\BTT_SetChasing.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Enemy\\BTT_SetRandomPatrolLocation.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Enemy\\EnemyAnimInstance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Enemy\\EnemyAttackTypes.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Enemy\\Enemy_MiddleBoss.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Enemy\\Enemy_Shooter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Enemy\\Enemy_Zako.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Enemy\\MiddleBossAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Enemy\\ZakoAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\GameAbilities\\TestRepulsionBurstComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\GameplayFramework\\ARGameInstance.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\GameplayFramework\\ARGameState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\GameplayFramework\\ARRepositoryAutoRegisterSystem.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\GameplayFramework\\ARStateInstance_Standard.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Guidance\\ARGuidancePoint.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\HitStopHelper.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\HookshotComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\IARMagnetizableInterface.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Input\\ARInputComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Input\\ARInputConfig.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Input\\ARInputMappingContext.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Input\\ARPlayerInputBuffer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\InsekiClimbingObject.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Interactive\\EmptyCan.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\LockOnComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Pawn\\ARPawnInitComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Pawn\\ARPawnInitData.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Physics\\Core\\ARPhysicsEngine.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Physics\\Core\\ARPhysicsEngineProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Physics\\Core\\ARPhysicsTickManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Physics\\Core\\ARPhysicsTickObject.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Physics\\Core\\ARPhysicsTickProcessorActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Physics\\Core\\ARPhysicsTickTask.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Physics\\IARPhysicsSystemHost.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Physics\\TickObjects\\Magnetic\\ARMagneticAttractionTickObject.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Physics\\TickObjects\\Magnetic\\ARMagneticRepulsionTickObject.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Physics\\TickObjects\\Magnetic\\ARMagneticTickObject.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\PlayerComponents\\ARChargeAttackComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\PlayerComponents\\AttractSpecialAttackComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\PlayerObservation\\Core\\ObserverProxyRegistryDecorator.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\PlayerObservation\\ObserverListNode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\PlayerObservation\\ObserverListRootNode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\PlayerObservation\\ObserverProxy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\PlayerObservation\\ObserverProxyNode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\PlayerObservation\\ObserverProxyRootNode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\PlayerObservation\\PlayerNotifyHandler.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\PlayerObservation\\Registry\\BlueprintObserverProxyRegistry.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\PlayerObservation\\Registry\\SoundEffectRegistry.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Player\\ARPlayerState.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\RangeDetector\\Core\\DetectorImpls.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\RangeDetector\\Core\\RangeDetector.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\RangeDetector\\Debug\\DebugDetectorImpls.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\RangeDetector\\GameFramework\\RangeDetectorComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\RangeDetector\\Utils\\CollisionTraceFunctionLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\RangeDetector\\Utils\\RangeDetectorHelper.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Repositories\\ARRepositoryManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\SpecialAttackAttractActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Test\\ARPhysicsEngineTest.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Test\\ARPhysicsEngineTestGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Test\\ARPhysicsTestCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Test\\ARPhysics_TestRepulsionActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Test\\ARTestObserverGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Test\\TestNotifyHandler.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Test\\TestNotifyHandlerActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\Test\\TestUInterface.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Private\\UI\\Player_MainUI.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\ARRangerAnimInstance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\ActionAbilities\\ARAbilitySystemComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\ActionAbilities\\ARGameplayAbilityBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\ActionAbilities\\Abilities\\ARGameplayAbility_Attack.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\ActionAbilities\\Abilities\\ARGameplayAbility_Charge.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\ActionAbilities\\Abilities\\ARGameplayAbility_Dead.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\ActionAbilities\\Abilities\\ARGameplayAbility_Jump.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\ActionAbilities\\Abilities\\IARGameplayAbilityNotifyInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\ActionAbilities\\Attributes\\ARAttackAttributeSet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\ActionAbilities\\Attributes\\ARAttributeSet.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\ActionAbilities\\Tasks\\ARAbilityTask_HitDetection.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\ActionAbilities\\Tasks\\AT_TickUntilInputRelease.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Animations\\AnimNotifies\\ARAnimNotify_AbilityCancelable.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Animations\\AnimNotifies\\AnimNotifyState_DetectRange.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Animations\\AnimNotifies\\AnimNotifyState_HitStop.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Animations\\AnimNotifies\\AnimNotifyState_ModifyAnimSpeed.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Animations\\AnimNotifies\\AnimNotify_AR_AddAttackCondition.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\AttackBaseComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\AudioSystem\\ARAudioSystem.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\AudioSystem\\ARSoundPlayLibrary.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\BattleEvent\\BattleEventCage.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\BattleEvent\\BattleEventField.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\BattleEvent\\BattleEventManager.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\BattleEvent\\EnemySpawner.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\BattleEvent\\SpawnPhase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\BattleSystem\\IARAttackable.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\BattleSystem\\IARAttackerInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\BattleSystem\\IARBattleNotifyHandler.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\BattleSystem\\IBattleSystemInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\BlinkingSystem\\BlinkDatas.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\BlinkingSystem\\BlinkOutlineFunctor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\BlinkingSystem\\BlinkingOutlineWorldSubsystem.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\BlinkingSystem\\DetectorMagnetizableComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\BlinkingSystem\\OutlineSystem.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\BlinkingSystem\\OutlineTickActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\CameraWorkProviderAdapter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\Core\\CameraMainEvaluator.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\Core\\CameraModeNode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\Core\\CameraModeNodeEvaluator.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\Core\\CameraModeRootNode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\Core\\CameraModeView.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\Core\\CameraRig.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\Core\\CameraWorkDirector.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\Core\\CameraWorkDirectorEvaluator.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\Core\\Cast.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\Core\\CoreDefines.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\Framework\\ARCameraComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\Framework\\ARCameraComponentBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\Framework\\ARCameraOperatorBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\ICameraWorkProviderInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\ICameraWorkProviderUEInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CameraWork\\Misc\\EnvironmentTypeAdapter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Character\\ARAbilityCostComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Character\\ARHealthComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CustomRenderPipeline\\CustomRPWorldSubsystem.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\CustomRenderPipeline\\MangaExaggerationStyleSVExtension.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Enemy\\BTT\\BTT_MoveToPreferredDistance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Enemy\\BTT\\BTT_PerformAttack.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Enemy\\BTT\\BTT_PunchAttack.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Enemy\\BTT\\BTT_SelectAttack.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Enemy\\BTT\\BTT_SetAttackCooldown.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Enemy\\BTT\\BTT_SetChasing.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Enemy\\BTT\\BTT_SetMoveLocation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Enemy\\BTT\\BTT_SetRandomPatrolLocation.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Enemy\\BTT\\BTT_Zako_PerformAttack.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Enemy\\EnemyAnimInstance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Enemy\\EnemyAttackTypes.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Enemy\\Enemy_MiddleBoss.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Enemy\\Enemy_Shooter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Enemy\\Enemy_Zako.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Enemy\\MiddleBossAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Enemy\\ZakoAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\GameAbilities\\TestRepulsionBurstComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\GameplayCameraExtensions\\EnhancedCriticalDamperValueInterpolator.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\GameplayCameraExtensions\\EnhancedCriticalDamperValueInterpolator.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\GameplayFramework\\ARGameInstance.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\GameplayFramework\\ARGameState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\GameplayFramework\\ARRepositoryAutoRegisterSystem.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\GameplayFramework\\ARStateInstance_Standard.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Guidance\\ARGuidancePoint.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\HitStopHelper.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\HookshotComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\IARMagnetizableInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\ISpecialAttractInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Input\\ARInputComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Input\\ARInputConfig.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Input\\ARInputMappingContext.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Input\\ARPlayerInputBuffer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\InsekiClimbingObject.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Interactive\\EmptyCan.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\LockOnComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Pawn\\ARPawnInitComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Pawn\\ARPawnInitData.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Physics\\Core\\ARPhysicsEngine.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Physics\\Core\\ARPhysicsEngineProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Physics\\Core\\ARPhysicsTickManagerInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Physics\\Core\\ARPhysicsTickObject.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Physics\\Core\\ARPhysicsTickProcessorActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Physics\\Core\\ARPhysicsTickTask.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Physics\\Core\\ARPhysicsTickTypes.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Physics\\DataTransfer\\MagneticParameterDTO.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Physics\\Gameplay\\ARPhysicsGlobal.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Physics\\IARPhysicsSystemHost.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Physics\\TickObjects\\Magnetic\\ARMagneticAttractionTickObject.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Physics\\TickObjects\\Magnetic\\ARMagneticRepulsionTickObject.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Physics\\TickObjects\\Magnetic\\ARMagneticTickObject.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\PlayerComponents\\ARChargeAttackComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\PlayerComponents\\AttractSpecialAttackComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\PlayerObservation\\Core\\ObserverProxyRegistryDecorator.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\PlayerObservation\\Core\\ObserverProxyRegistryFwd.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\PlayerObservation\\Core\\ObserverProxyRegistryMisc.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\PlayerObservation\\INotifyHandlerInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\PlayerObservation\\IObservableSubjectInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\PlayerObservation\\IObserverRegistry.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\PlayerObservation\\ObserverListNode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\PlayerObservation\\ObserverListRootNode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\PlayerObservation\\ObserverProxy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\PlayerObservation\\ObserverProxyNode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\PlayerObservation\\ObserverProxyRootNode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\PlayerObservation\\PlayerNotifyHandler.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\PlayerObservation\\Registry\\BlueprintObserverProxyRegistry.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\PlayerObservation\\Registry\\SoundEffectRegistry.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Player\\ARPlayerState.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\RangeDetector\\Core\\DetectorImpls.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\RangeDetector\\Core\\PrimitiveDetectorData.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\RangeDetector\\Core\\RangeDetector.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\RangeDetector\\DetectorDatas\\CapsuleDetectorData.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\RangeDetector\\DetectorDatas\\ConeCollisionDataAsset.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\RangeDetector\\DetectorDatas\\SphereDetectorData.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\RangeDetector\\GameFramework\\RangeDetectorComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\RangeDetector\\Utils\\CollisionTraceFunctionLibrary.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\RangeDetector\\Utils\\RangeDetectorHelper.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Repositories\\ARRepositoryManager.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Repositories\\IARRepositoryInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\RepositoryAssetMaster\\MagneticParametersList.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\SpecialAttackAttractActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Test\\ARPhysicsEngineTest.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Test\\ARPhysicsEngineTestGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Test\\ARPhysicsTestCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Test\\ARPhysics_TestRepulsionActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Test\\ARTestObserverGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Test\\TestNotifyHandler.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Test\\TestNotifyHandlerActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\Test\\TestUInterface.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Public\\UI\\Player_MainUI.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\PunchCameraShake.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\PunchCameraShake.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\AI\\CombatAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\AI\\CombatAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\AI\\CombatEnemy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\AI\\CombatEnemy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\AI\\CombatEnemySpawner.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\AI\\CombatEnemySpawner.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\AI\\CombatStateTreeUtility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\AI\\CombatStateTreeUtility.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\AI\\EnvQueryContext_Player.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\AI\\EnvQueryContext_Player.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\AnimNotify_CheckChargedAttack.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\AnimNotify_CheckChargedAttack.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\AnimNotify_CheckCombo.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\AnimNotify_CheckCombo.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\AnimNotify_DoAttackTrace.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\AnimNotify_DoAttackTrace.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatActivatable.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatActivatable.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatActivationVolume.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatActivationVolume.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatAttacker.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatAttacker.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatCheckpointVolume.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatCheckpointVolume.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatDamageable.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatDamageable.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatDamageableBox.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatDamageableBox.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatDummy.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatDummy.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatLavaFloor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatLavaFloor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatLifeBar.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatLifeBar.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Combat\\CombatPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Platforming\\AnimNotify_EndDash.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Platforming\\AnimNotify_EndDash.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Platforming\\PlatformingCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Platforming\\PlatformingCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Platforming\\PlatformingGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Platforming\\PlatformingGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Platforming\\PlatformingPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_Platforming\\PlatformingPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\AI\\SideScrollingAIController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\AI\\SideScrollingAIController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\AI\\SideScrollingNPC.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\AI\\SideScrollingNPC.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\AI\\SideScrollingStateTreeUtility.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\AI\\SideScrollingStateTreeUtility.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\Gameplay\\SideScrollingJumpPad.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\Gameplay\\SideScrollingJumpPad.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\Gameplay\\SideScrollingMovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\Gameplay\\SideScrollingMovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\Gameplay\\SideScrollingPickup.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\Gameplay\\SideScrollingPickup.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\Gameplay\\SideScrollingSoftPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\Gameplay\\SideScrollingSoftPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\SideScrollingCPP.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\SideScrollingCameraManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\SideScrollingCameraManager.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\SideScrollingCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\SideScrollingCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\SideScrollingGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\SideScrollingGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\SideScrollingInteractable.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\SideScrollingInteractable.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\SideScrollingPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\SideScrollingPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\SideScrollingUI.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\ARRanger\\Variant_SideScrolling\\SideScrollingUI.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\ARRanger.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\MLibrary.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Private\\AnimMontageHelperLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Private\\AudioFunctionLibrary.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Private\\AudioKit.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Private\\Debug.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Private\\GetAddComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Private\\IAudioPlayer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Private\\MLibraryModule.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Private\\SoundEffectHandle.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\AnimMontageHelperLibrary.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\AudioFunctionLibrary.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\AudioKit.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\DataStructure\\ArrayIterator.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\DataStructure\\Dimension1Array.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\DataStructure\\Dimension2Array.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\DataStructure\\Dimension2ArrayHandle.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\Debug.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\DebugFormat.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\GetAddComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\IAudioPlayer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\MAssertion.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\MCppSupport.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\MLibrary.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\SoundEffectHandle.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\UECollectionsLibrary.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\UInterfaceValidCheck.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Inseki\\ARRanger\\Source\\MLibrary\\Public\\ZeroMem.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Inseki\\ARRanger\\.vscode\\compileCommands_ARRanger\\MLibrary.3.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	}
+]

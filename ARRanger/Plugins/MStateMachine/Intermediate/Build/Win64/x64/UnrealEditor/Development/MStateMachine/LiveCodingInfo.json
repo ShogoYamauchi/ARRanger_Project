@@ -2,6 +2,8 @@
 	"RemapUnityFiles": 
 	{
 		"Module.MStateMachine.cpp.obj": [
+			"MStateMachine.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
 			"MBlueprintStateInstance.cpp.obj",
 			"MStateContext.cpp.obj",
 			"MStateContextFunctions.cpp.obj",
@@ -9,9 +11,7 @@
 			"MStateInstance.cpp.obj",
 			"MStateMachine.cpp.obj",
 			"MStateMachineComponent.cpp.obj",
-			"MStateMachineLogChannels.cpp.obj",
-			"MStateMachine.init.gen.cpp.obj",
-			"PerModuleInline.gen.cpp.obj"
+			"MStateMachineLogChannels.cpp.obj"
 		]
 	}
 }
